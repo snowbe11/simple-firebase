@@ -1,4 +1,17 @@
 {
+  "name": "@snowbe11/easy-firebase",
+  "version": "0.8.0",
+  "description": "simple and easy to use firebase",
+  "main": "index.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Baek chang hwan",
+  "license": "MIT",
+  "repository": "https://github.com/snowbe11/simple-firebase",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "typescript": "^4.7.4"
   },
