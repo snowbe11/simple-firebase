@@ -1,6 +1,6 @@
 {
   "name": "@snowbe11/easy-firebase",
-  "version": "0.8.0",
+  "version": "0.8.3",
   "description": "simple and easy to use firebase",
   "main": "index.ts",
   "scripts": {
@@ -10,12 +10,13 @@
   "license": "MIT",
   "repository": "https://github.com/snowbe11/simple-firebase",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "typescript": "^4.7.4"
   },
   "dependencies": {
+    "@types/react": "^18.0.15",
     "firebase": "^9.9.0"
   }
 }
