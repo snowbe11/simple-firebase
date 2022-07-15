@@ -4,8 +4,8 @@ import {
   FirebaseValueObject,
   getCollection,
   getDocument,
-} from ".";
-import React, { useCallback } from "react";
+} from "./api";
+import { useCallback } from "react";
 
 export const useFirebase = <T extends FirebaseValueObject>(
   collection: string
